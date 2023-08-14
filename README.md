@@ -1,16 +1,18 @@
-### Hi there 👋
+👋 Hello, I'm Faizan Ali
 
-<!--
-**07faizanali/07faizanali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Exploring the Tech Universe | ReactJS Front-End Developer | Manual Tester
 
-Here are some ideas to get you started:
+🎓 Bachelors in Computer Applications | Class of 2021
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Passionate about Technology, Driven by Collaboration
+
+🌐 Python | Django | HTML/CSS | JavaScript
+
+🛠️ Tools: VS Code | PyCharm | NetBeans | Excel | Word
+
+🧪 Manual Testing Enthusiast | Software Craftsman
+
+🌟 "Curiosity leads my code, Collaboration fuels my innovation." 🌟
+
+📎 Let's connect on [LinkedIn](https://www.linkedin.com/in/07faizanali/)
+
